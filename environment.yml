@@ -1,1 +1,11 @@
-
+name: olympic-enhancement
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - matplotlib
+  - pip:
+    - opencv-python-headless
+    - scikit-image # 一个优秀的图像处理库
