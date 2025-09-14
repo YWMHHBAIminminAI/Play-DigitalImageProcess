@@ -33,7 +33,7 @@ Read the detailed technical walkthrough of this initial demo on [CSDN](https://b
 
 1.  **Clone the repo and set up the environment:**
     ```bash
-    git clone https://github.com/你的用户名/Olympic-Image-Enhancement.git
+    git clone https://github.com/YWMHHBAIminminAI/Play-DigitalImageProcess.git
     cd Olympic-Image-Enhancement
     conda env create -f environment.yml
     conda activate olympic-enhancement
