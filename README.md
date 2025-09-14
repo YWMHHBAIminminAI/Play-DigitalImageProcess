@@ -18,7 +18,7 @@ A project dedicated to restoring and enhancing historical Olympic footage using 
 *Figure: Contrast enhancement using ITU-R BT.709 grayscale conversion and contrast stretching.*
 
 ## 📖 Blog Post
-Read the detailed technical walkthrough of this initial demo on [CSDN](你的博客链接) (Chinese).
+Read the detailed technical walkthrough of this initial demo on [CSDN](https://blog.csdn.net/m0_52436398/article/details/151680124?sharetype=blogdetail&sharerId=151680124&sharerefer=PC&sharesource=m0_52436398&spm=1011.2480.3001.8118) (Chinese).
 
 ## 🛠️ Installation & Usage
 
