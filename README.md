@@ -6,17 +6,33 @@
 
 # Olympic Historical Image Enhancement Project
 
-> **Disclaimer**: This is a personal research project for educational purposes. The techniques implemented here are based on public research papers and open-source libraries, and are not related to my employer (NovaStar) or its proprietary technologies.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-## First Case Study: 1924 Paris Olympics Marathon
+> **Disclaimer**: This is a personal research project for educational purposes. The techniques implemented here are based on public research papers and open-source libraries, and are not related to my employer or its proprietary technologies.
 
-This project aims to enhance historical Olympic footage using both traditional and AI-based image processing techniques.
+A project dedicated to restoring and enhancing historical Olympic footage using both traditional image processing and modern AI techniques. Our goal is to bring the glory of past Olympics back to life.
 
-### Example: Traditional Enhancement (Grayscale Standardization & Contrast Stretching)
-
+## 🚀 First Look: Traditional Image Enhancement
 ![Enhancement Comparison](enhancement_comparison.png)
+*Figure: Contrast enhancement using ITU-R BT.709 grayscale conversion and contrast stretching.*
 
-*Figure: Simulated example of contrast enhancement on a low-contrast image.*
+## 📖 Blog Post
+Read the detailed technical walkthrough of this initial demo on [CSDN](你的博客链接) (Chinese).
 
-### Getting Started
-(You will add the setup instructions here)
+## 🛠️ Installation & Usage
+
+1.  **Clone the repo and set up the environment:**
+    ```bash
+    git clone https://github.com/你的用户名/Olympic-Image-Enhancement.git
+    cd Olympic-Image-Enhancement
+    conda env create -f environment.yml
+    conda activate olympic-enhancement
+    ```
+
+2.  **Run the demo:**
+    ```bash
+    python demo_traditional_enhancement.py
+    ```
+
+## 📁 Project Structure
